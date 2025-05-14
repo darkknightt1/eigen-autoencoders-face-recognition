@@ -1,6 +1,6 @@
 # 🧠 Face Recognition using Autoencoders, Eigenfaces, and Machine Learning Classifiers
 
-This project explores and compares different feature extraction techniques—**Eigenfaces**, **Vanilla Autoencoders**, and **Convolutional Autoencoders**—combined with two classifiers: **Support Vector Machine (SVM)** and a **simple Neural Network (NN)** for face recognition tasks.
+This project explores and compares different feature extraction techniques—**Eigenfaces**, **Vanilla Autoencoders**, and **Convolutional Autoencoders**—combined with two classifiers: **Support Vector Machine (SVM)** and a **simple Neural Network (NN)** for face recognition tasks over casia dataset.
 
 ---
 
@@ -51,9 +51,5 @@ This structure enables a direct comparison between:
 
 
 
-## 📂 Dataset
 
-Make sure to organize your dataset into appropriate folders or follow the dataset loading instructions provided in the scripts.
-
----
 
